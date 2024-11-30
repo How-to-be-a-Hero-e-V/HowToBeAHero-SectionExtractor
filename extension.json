@@ -2,9 +2,9 @@
 	"name": "Section Extractor",
 	"version": "0.1.1",
 	"author": [
-		"Vincent Mahnke"
+		"Vincent Mahnke", "Deniz Kökden"
 	],
-	"url": "https://github.com/ViMaSter/HowToBeAHero-SectionExtractor",
+	"url": "https://github.com/How-to-be-a-Hero-e-V/HowToBeAHero-SectionExtractor",
 	"descriptionmsg": "sectionextractor-desc",
 	"license-name": "GPL-3.0-or-later",
 	"type": "parserhook",

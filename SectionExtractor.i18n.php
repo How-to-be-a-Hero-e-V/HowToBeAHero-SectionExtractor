@@ -1,6 +1,10 @@
 <?php
-const IS_NOT_CASE_SENSITIVE = 0;
-const IS_CASE_SENSITIVE = 1;
+if (!defined('IS_NOT_CASE_SENSITIVE')) {
+    define('IS_NOT_CASE_SENSITIVE', 0);
+}
+if (!defined('IS_CASE_SENSITIVE')) {
+    define('IS_CASE_SENSITIVE', 1);
+}
 
 $magicWords = [];
 
